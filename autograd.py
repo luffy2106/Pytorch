@@ -109,3 +109,5 @@ you need to zero out the grad property before. In real-life training an optimize
 
 
 
+
+
